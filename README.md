@@ -1,2 +1,2 @@
 # cardr-custom
- working on it rn
+a next-gen platform to make cutting cards seamless for debaters. 
